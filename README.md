@@ -48,3 +48,11 @@
   <img src="./screenshots/playlist.png" alt="Playlist" width="30% style="margin-right: 10px; margin-bottom: 10px;" />
   <img src="./screenshots/playlist_songs.png" alt="Playlist Songs" width="30% style="margin-right: 10px; margin-bottom: 10px;" />
 </div>
+
+
+## 📄 License
+
+This project is **proprietary and closed-source**.  
+All rights are reserved by the developer.  
+Unauthorized use, copying, or distribution is strictly prohibited.
+
